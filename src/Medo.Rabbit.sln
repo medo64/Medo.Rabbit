@@ -1,18 +1,22 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medo.Rabbit", "Medo.Rabbit.csproj", "{55A92A54-85A7-489D-AF27-15DA15F77806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medo.Rabbit", "Medo.Rabbit.csproj", "{55A92A54-85A7-489D-AF27-15DA15F77806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medo.Rabbit.Tests", "..\tests\Medo.Rabbit.Tests.csproj", "{E3590805-7858-4E19-A8EB-F88619F78E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medo.Rabbit.Tests", "..\tests\Medo.Rabbit.Tests.csproj", "{E3590805-7858-4E19-A8EB-F88619F78E81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleEncryption", "..\examples\SimpleEncryption\SimpleEncryption.csproj", "{CE73D59F-5102-4869-B247-AE1904B17434}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{9899347E-D6A8-485E-9FB1-99738FBC690F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{8534C8B9-CA39-4F4C-B879-4784A7CD4C63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{55A92A54-85A7-489D-AF27-15DA15F77806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -23,5 +27,19 @@ Global
 		{E3590805-7858-4E19-A8EB-F88619F78E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3590805-7858-4E19-A8EB-F88619F78E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3590805-7858-4E19-A8EB-F88619F78E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE73D59F-5102-4869-B247-AE1904B17434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE73D59F-5102-4869-B247-AE1904B17434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE73D59F-5102-4869-B247-AE1904B17434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE73D59F-5102-4869-B247-AE1904B17434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E3590805-7858-4E19-A8EB-F88619F78E81} = {8534C8B9-CA39-4F4C-B879-4784A7CD4C63}
+		{CE73D59F-5102-4869-B247-AE1904B17434} = {9899347E-D6A8-485E-9FB1-99738FBC690F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E77ED5E-A353-4642-BEFF-8526795DBF02}
 	EndGlobalSection
 EndGlobal
