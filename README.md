@@ -1,5 +1,5 @@
-Medo.Rabbit
-===========
+Medo.Security.Cryptography.Rabbit
+=================================
 
 C# implementation of [Rabbit][rabbit] stream cipher.
 
