@@ -1,15 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <AssemblyName>Medo.Rabbit</AssemblyName>
+    <RootNamespace>Medo.Security.Cryptography</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFrameworks>net7.0;net6.0</TargetFrameworks>
     <LangVersion>11.0</LangVersion>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <AssemblyName>Medo.Rabbit</AssemblyName>
-    <RootNamespace>Medo.Security.Cryptography</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
