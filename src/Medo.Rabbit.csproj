@@ -30,7 +30,7 @@
 
   <PropertyGroup>
     <PackageId>RabbitCipher</PackageId>
-    <Version>2.0.1</Version>
+    <Version>2.0.2</Version>
     <Authors>Josip Medved</Authors>
     <Copyright>MIT</Copyright>
     <Company>www.medo64.com</Company>
@@ -38,8 +38,8 @@
     <PackageIcon>ICON.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
-    <PackageProjectUrl>https://github.com/medo64/Medo.Security.Cryptography.Rabbit/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/medo64/Medo.Security.Cryptography.Rabbit/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/medo64/Medo.Rabbit/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/medo64/Medo.Rabbit/</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <Description>
         This is a C# implementation of Rabbit stream cipher.

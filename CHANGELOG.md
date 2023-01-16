@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0.2] - 2023-01-15
+
+- Updated repository link
+
+
 ## [2.0.1] - 2023-01-15
 
 - Updated repository link
@@ -17,6 +22,7 @@
 
 
 
-[unreleased]: https://github.com/medo64/Medo.Security.Cryptography.Rabbit
+[unreleased]: https://github.com/medo64/Medo.Rabbit
+[2.0.2]: https://www.nuget.org/packages/Rabbit/2.0.2
 [2.0.1]: https://www.nuget.org/packages/Rabbit/2.0.1
 [2.0.0]: https://www.nuget.org/packages/Rabbit/2.0.0
