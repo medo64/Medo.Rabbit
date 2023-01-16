@@ -21,12 +21,12 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>Rabbit</PackageId>
+    <PackageId>RabbitCipher</PackageId>
     <Version>2.0.0</Version>
     <Authors>Josip Medved</Authors>
     <Copyright>MIT</Copyright>
     <Company>www.medo64.com</Company>
-    <PackageTags>stream,cipher,ecrypt</PackageTags>
+    <PackageTags>rabbit,stream,cipher,ecrypt</PackageTags>
     <PackageIcon>ICON.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
