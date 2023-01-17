@@ -34,7 +34,7 @@
     <Authors>Josip Medved</Authors>
     <Copyright>MIT</Copyright>
     <Company>www.medo64.com</Company>
-    <PackageTags>rabbit,stream,cipher,ecrypt</PackageTags>
+    <PackageTags>rabbit,stream,cipher,ecrypt,rfc4503</PackageTags>
     <PackageIcon>ICON.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
