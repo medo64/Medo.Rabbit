@@ -16,6 +16,12 @@ those found in embedded systems. It is also designed to be resistant to
 side-channel attacks, such as power analysis and timing attacks. Rabbit is a
 lightweight and efficient stream cipher, suitable for use in embedded systems.
 
+You can find packaged library at [NuGet][nuget] and add it you your application
+using the following command:
+
+    dotnet add package RabbitCipher
+
 
 
 [rabbit]: https://www.ecrypt.eu.org/stream/e2-rabbit.html
+[nuget]: https://www.nuget.org/packages/RabbitCipher
