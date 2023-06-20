@@ -29,8 +29,8 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>RabbitCipher</PackageId>
-    <Version>2.0.2</Version>
+    <PackageId>Medo.RabbitCipher</PackageId>
+    <Version>2.1.0</Version>
     <Authors>Josip Medved</Authors>
     <Copyright>MIT</Copyright>
     <Company>www.medo64.com</Company>
